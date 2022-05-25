@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://namekVrn.github.io/team_job",
+  "homepage": "https://github.com/dikey677/oh-my-donut",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team_job/"
+    "build": "parcel build src/*.html --public-url /oh-my-donut/"
   },
   "repository": {
     "type": "git",
